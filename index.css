@@ -1,0 +1,28 @@
+.navbar-brand{
+	font-family: 'Merriweather', serif;
+	font-size: 30px;
+	
+}
+.navbar #myMenu .custom-nav .navbar-item a{
+	font-family: 'Merriweather', serif;
+	
+}
+
+body{
+
+font-family: 'Merriweather', serif;
+}
+
+.footer{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	
+	
+	text-align: center;
+}
+.caption{
+	position: relative;
+	float: right;
+}
